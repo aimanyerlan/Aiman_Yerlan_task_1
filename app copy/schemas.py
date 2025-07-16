@@ -11,4 +11,3 @@ class NoteOut(BaseModel):
 
     class Config:
         orm_mode = True
-        
